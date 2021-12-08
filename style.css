@@ -1,0 +1,19 @@
+/*
+Theme Name: MyTheme
+Theme URI: none
+Description: none
+Version: 1.0.0
+Author: hung
+Author URI: none
+License: MIT
+License URI: https://opensource.org/licenses/MIT
+Tags: none
+Text Domain: my-app
+Domain Path: /assets/lang
+Requires PHP: 5.4
+*/
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
